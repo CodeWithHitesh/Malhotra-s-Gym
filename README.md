@@ -1,5 +1,5 @@
 # React Fitness Application
 
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+## Malhotra's Gym
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+Link to the website: https://malhotrass-gym.netlify.app/
